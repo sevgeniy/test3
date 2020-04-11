@@ -8,3 +8,7 @@ div {
 span {
   background-color: mediumslateblue;
 }
+
+li {
+  text-decoration: underline;
+}

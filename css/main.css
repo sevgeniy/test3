@@ -12,3 +12,7 @@ span {
 li {
   text-decoration: underline;
 }
+
+p {
+  font-size: 20px;
+}

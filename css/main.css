@@ -8,3 +8,7 @@ div {
 span {
   background-color: mediumslateblue;
 }
+
+ul {
+  list-style: none;
+}
